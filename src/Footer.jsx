@@ -32,7 +32,7 @@ const Footer = () => {
 			</audio>
 			<div className='w-full flex justify-between fixed bottom-1 px-1.5 items-end z-[200]'>
 				<h2 className='text md:text-xl font-medium text-white'>
-					Powered by un feo
+					Te amo por hoy y siempre 💖💗
 				</h2>
 				<div className='mr-2 mb-2'>
 					<button
