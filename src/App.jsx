@@ -27,7 +27,7 @@ const App = () => {
 
 	return (
 		<div
-			id='__almeyda'
+			id='__ivan'
 			className='max-w-[100vh] w-full h-full overflow-hidden'
 		>
 			<div
@@ -37,10 +37,10 @@ const App = () => {
 				}}
 			/>
 			<h1>
-				Click si te gustan las 🌻!
+				Click si quieres mas flores 🌻!
 				<br />
 				<p className='text-lg'>
-					(Reproduce la música con el botón de abajo)
+					(Toca el parlante pa la musiquita)
 				</p>
 			</h1>
 			<div>
